@@ -101,9 +101,10 @@ I'm a passionate **Full-Stack Developer** who loves building scalable web applic
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulahad-2&repo=your-best-repo&theme=radical&hide_border=true)]([https://github.com/abdulahad-2/your-best-repo](https://github.com/abdulahad-2/Sage-video-downloader))
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulahad-2&repo=another-great-repo&theme=radical&hide_border=true)]([https://github.com/abdulahad-2/another-great-repo](https://github.com/abdulahad-2/AI-resume-analyzer-generator))
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulahad-2&repo=another-great-repo&theme=radical&hide_border=true)](https://github.com/abdulahad-2/portfolio2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulahad-2&repo=Sage-video-downloader&theme=radical&hide_border=true)](https://github.com/abdulahad-2/Sage-video-downloader)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulahad-2&repo=AI-resume-analyzer-generator&theme=radical&hide_border=true)](https://github.com/abdulahad-2/AI-resume-analyzer-generator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulahad-2&repo=portfolio2&theme=radical&hide_border=true)](https://github.com/abdulahad-2/portfolio2)
+
 </div>
 
 ## 🚀 Current Mission
@@ -171,13 +172,7 @@ const currentFocus = {
 
 </div>
 
-<div align="center">
-  
-![Profile Views Counter](https://komarev.com/ghpvc/?username=abdulahad-2&color=00D9FF&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/abdulahad-2?color=00D9FF&style=for-the-badge)
-![Years Badge](https://badges.pufler.dev/years/abdulahad-2?style=for-the-badge&color=00D9FF)
 
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Happy%20Coding!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72"/>
 
