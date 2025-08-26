@@ -448,23 +448,7 @@ const currentMission = {
      ╰─────────────────────────────────────────────────────────────╯
 ```
 
-### 📈 **Visitor Count**
-<img src="https://profile-counter.glitch.me/abdulahad-2/count.svg" alt="Visitor Count" />
 
-</div>
-
-<div align="center">
-
-### 🎵 **Currently Coding To**
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify)](https://open.spotify.com/user/your-username)
-
-### 🐍 **Contribution Snake**
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abdulahad-2/abdulahad-2/raw/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="GitHub contribution grid snake animation" src="https://github.com/abdulahad-2/abdulahad-2/raw/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Happy%20Coding!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72"/>
 
