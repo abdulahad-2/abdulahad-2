@@ -94,8 +94,8 @@ graph LR
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdulahad-2&layout=compact&theme=radical&hide_border=true&langs_count=8">
-  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdulahad-2&layout=compact&theme=default&hide_border=true&langs_count=8">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdulahad-2&layout=compact&theme=radical&hide_border=true&langs_count=5&hide=python,shell,dockerfile,makefile">
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdulahad-2&layout=compact&theme=default&hide_border=true&langs_count=5&hide=python,shell,dockerfile,makefile">
 </picture>
 
 </div>
