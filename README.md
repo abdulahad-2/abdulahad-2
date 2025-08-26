@@ -105,6 +105,7 @@ I'm a passionate **Full-Stack Developer** who loves building scalable web applic
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulahad-2&repo=AI-resume-analyzer-generator&theme=radical&hide_border=true)](https://github.com/abdulahad-2/AI-resume-analyzer-generator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulahad-2&repo=portfolio2&theme=radical&hide_border=true)](https://github.com/abdulahad-2/portfolio2)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulahad-2&repo=portfolio2&theme=radical&hide_border=true)](https://github.com/abdulahad-2/portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulahad-2&repo=portfolio2&theme=radical&hide_border=true)](https://abdulahad-2.github.io/admin-dashboard/#/dashboard)
 </div>
 
 ## 🚀 Current Mission
