@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Abdul Ahad! 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;WordPress+%26+Shopify+Expert;React+%26+TypeScript+Enthusiast;Building+Amazing+Web+Experiences" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&background=0D111700&center=true&vCenter=true&width=800&lines=🚀+Full-Stack+Developer;🛍️+WordPress+%26+Shopify+Expert;⚛️+React+%26+TypeScript+Enthusiast;✨+Building+Amazing+Web+Experiences;🌟+Turning+Ideas+into+Reality" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -10,11 +10,17 @@
 
 ## 🚀 About Me
 
-> **Crafting Digital Experiences | Turning Ideas into Reality**
+<div align="center">
+  
+> **🌟 Crafting Digital Experiences | Turning Ideas into Reality 🌟**
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
 
 I'm a passionate **Full-Stack Developer** who loves building scalable web applications and cutting-edge e-commerce solutions. With a keen eye for detail and a drive for perfection, I transform complex problems into elegant, user-friendly solutions.
-
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 Currently working on **full-stack e-commerce platforms & APIs**
 - 🌱 Learning **advanced React patterns, microservices & cloud architecture**
@@ -22,45 +28,57 @@ I'm a passionate **Full-Stack Developer** who loves building scalable web applic
 - 💬 Ask me about **React, TypeScript, Node.js, WordPress, Shopify**
 - ⚡ Fun fact: **I can debug both frontend and backend simultaneously! 😄**
 
-<br clear="right"/>
+</td>
+<td width="50%" align="center">
+
+<img alt="Coding GIF" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ Tech Arsenal
 
 <div align="center">
 
 ### 🎨 Frontend Mastery
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,nextjs,bootstrap,sass" alt="Frontend Skills" />
+</p>
 
 ### ⚙️ Backend Power
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![RESTful API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,mongodb,mysql,postgresql,firebase,redis" alt="Backend Skills" />
+</p>
 
 ### 🛍️ E-commerce Excellence
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
+</p>
 
 ### 🔧 Development Tools
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,aws,vercel,netlify,postman" alt="Tools" />
+</p>
+
+</div>
+
+<div align="center">
+  
+### 🏆 **Professional Expertise Levels**
+
+```mermaid
+graph LR
+    A[🎨 Frontend] --> B[Expert ⭐⭐⭐⭐⭐]
+    C[⚙️ Backend] --> D[Expert ⭐⭐⭐⭐⭐]
+    E[🛍️ E-commerce] --> F[Expert ⭐⭐⭐⭐⭐]
+    G[☁️ DevOps] --> H[Advanced ⭐⭐⭐⭐]
+    I[📱 Mobile] --> J[Intermediate ⭐⭐⭐]
+```
 
 </div>
 
@@ -69,44 +87,105 @@ I'm a passionate **Full-Stack Developer** who loves building scalable web applic
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=abdulahad-2&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="Abdul Ahad github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulahad-2&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" />
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=abdulahad-2&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true">
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abdulahad-2&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdulahad-2&layout=compact&theme=radical&hide_border=true&langs_count=8">
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdulahad-2&layout=compact&theme=default&hide_border=true&langs_count=8">
+</picture>
+
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulahad-2&theme=radical&hide_border=true&stroke=0000&background=0d1117&currStreakLabel=00D9FF" alt="Abdul Ahad's streak" />
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=abdulahad-2&theme=radical&hide_border=true">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulahad-2&theme=default&hide_border=true">
+</picture>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulahad-2&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="90%"/>
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=abdulahad-2&theme=react-dark&hide_border=true&area=true">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdulahad-2&theme=github&hide_border=true&area=true">
+</picture>
+
 </div>
 
 ## 🎯 What I Bring to the Table
 
 <div align="center">
 
-| 🛒 **E-commerce Magic** | 🎨 **Frontend Artistry** | ⚡ **Backend Excellence** |
-|:---:|:---:|:---:|
-| Custom WordPress/WooCommerce solutions | Pixel-perfect React applications | Scalable API architecture |
-| Shopify store development & optimization | Responsive, mobile-first design | Database design & optimization |
-| Payment gateway integrations | Interactive UI/UX experiences | Authentication & authorization |
-| **Performance Beast** | **DevOps & Cloud** | **Full-Stack Integration** |
-| Lightning-fast, SEO-optimized sites | AWS cloud deployment | End-to-end application development |
-| Advanced performance optimization | Docker containerization | RESTful & GraphQL APIs |
-| Core Web Vitals optimization | CI/CD pipeline setup | Real-time applications |
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🛒 **E-commerce Magic**
+```javascript
+const ecommerce = {
+  platforms: ['WordPress', 'Shopify', 'WooCommerce'],
+  features: ['Payment Gateways', 'Inventory Management', 'SEO Optimization'],
+  expertise: 'Converting visitors to customers 💰'
+}
+```
+
+</td>
+<td align="center" width="33%">
+
+### 🎨 **Frontend Artistry**
+```javascript
+const frontend = {
+  frameworks: ['React', 'Next.js', 'TypeScript'],
+  styling: ['Tailwind', 'CSS3', 'SASS'],
+  focus: 'Pixel-perfect responsive design ✨'
+}
+```
+
+</td>
+<td align="center" width="33%">
+
+### ⚡ **Backend Excellence**
+```javascript
+const backend = {
+  runtime: ['Node.js', 'Express', 'PHP'],
+  databases: ['MongoDB', 'MySQL', 'PostgreSQL'],
+  architecture: 'Scalable & secure APIs 🔐'
+}
+```
+
+</td>
+</tr>
+</table>
 
 </div>
 
-## 🌟 Featured Masterpieces
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🌟 Featured GitHub Projects
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulahad-2&repo=Sage-video-downloader&theme=radical&hide_border=true)](https://github.com/abdulahad-2/Sage-video-downloader)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulahad-2&repo=AI-resume-analyzer-generator&theme=radical&hide_border=true)](https://github.com/abdulahad-2/AI-resume-analyzer-generator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulahad-2&repo=portfolio2&theme=radical&hide_border=true)](https://github.com/abdulahad-2/portfolio2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulahad-2&repo=portfolio&theme=radical&hide_border=true)](https://github.com/abdulahad-2/portfolio)
+<a href="https://github.com/abdulahad-2/Sage-video-downloader">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abdulahad-2&repo=Sage-video-downloader&theme=radical&hide_border=true&show_owner=true" />
+</a>
+
+<a href="https://github.com/abdulahad-2/AI-resume-analyzer-generator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abdulahad-2&repo=AI-resume-analyzer-generator&theme=radical&hide_border=true&show_owner=true" />
+</a>
+
+<a href="https://github.com/abdulahad-2/portfolio2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abdulahad-2&repo=portfolio2&theme=radical&hide_border=true&show_owner=true" />
+</a>
+
+<a href="https://github.com/abdulahad-2/portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abdulahad-2&repo=portfolio&theme=radical&hide_border=true&show_owner=true" />
+</a>
 
 </div>
 
@@ -122,24 +201,28 @@ I'm a passionate **Full-Stack Developer** who loves building scalable web applic
 <tr>
 <td align="center" width="50%">
 
-**🛒 ThemeHFil Marketplace**
-<br>
-[![Visit Site](https://img.shields.io/badge/🌟_LIVE_SITE-00D9FF?style=for-the-badge&logoColor=white)](https://themehfil.ca/)
-<br>
-`WordPress` `WooCommerce` `Custom Theme`
-<br>
+<img src="https://img.shields.io/badge/🛒_ThemeHFil_Marketplace-FF6B35?style=for-the-badge&logoColor=white" alt="ThemeHFil"/>
+
+[![Visit Site](https://img.shields.io/badge/🌟_VISIT_LIVE_SITE-00D9FF?style=for-the-badge&logoColor=white)](https://themehfil.ca/)
+
+`WordPress` • `WooCommerce` • `Custom Theme`
+
 *Digital marketplace with advanced e-commerce functionality*
+
+**Features:** Payment Integration, User Dashboard, Product Management
 
 </td>
 <td align="center" width="50%">
 
-**🥘 Khan Jee Restaurant**
-<br>
-[![Visit Site](https://img.shields.io/badge/🍽️_LIVE_SITE-FF6B35?style=for-the-badge&logoColor=white)](https://khanjeecanada.com/)
-<br>
-`WordPress` `Custom Design` `Restaurant`
-<br>
+<img src="https://img.shields.io/badge/🥘_Khan_Jee_Restaurant-4CAF50?style=for-the-badge&logoColor=white" alt="Khan Jee"/>
+
+[![Visit Site](https://img.shields.io/badge/🍽️_VISIT_LIVE_SITE-FF6B35?style=for-the-badge&logoColor=white)](https://khanjeecanada.com/)
+
+`WordPress` • `Custom Design` • `Restaurant`
+
 *Professional restaurant website with online ordering*
+
+**Features:** Menu Management, Online Ordering, Location Maps
 
 </td>
 </tr>
@@ -151,24 +234,28 @@ I'm a passionate **Full-Stack Developer** who loves building scalable web applic
 <tr>
 <td align="center" width="50%">
 
-**🛒 Custom Shopify Store**
-<br>
-[![Visit Site](https://img.shields.io/badge/🛍️_LIVE_STORE-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)](https://by39tk-uv.myshopify.com/)
-<br>
-`Shopify` `Custom Theme` `E-commerce`
-<br>
+<img src="https://img.shields.io/badge/🛍️_Custom_Shopify_Store-7AB55C?style=for-the-badge&logoColor=white" alt="Shopify Store"/>
+
+[![Visit Store](https://img.shields.io/badge/🛍️_VISIT_STORE-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)](https://by39tk-uv.myshopify.com/)
+
+`Shopify` • `Liquid` • `Custom Theme`
+
 *Feature-rich e-commerce store with custom functionality*
+
+**Features:** Custom Checkout, Inventory Sync, Payment Gateway
 
 </td>
 <td align="center" width="50%">
 
-**⚡ React Admin Dashboard**
-<br>
-[![Visit Site](https://img.shields.io/badge/📊_LIVE_DEMO-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://abdulahad-2.github.io/admin-dashboard/#/dashboard)
-<br>
-`React` `Dashboard` `Data Visualization`
-<br>
+<img src="https://img.shields.io/badge/⚡_React_Admin_Dashboard-61DAFB?style=for-the-badge&logoColor=white" alt="React Dashboard"/>
+
+[![Visit Demo](https://img.shields.io/badge/📊_VIEW_DEMO-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://abdulahad-2.github.io/admin-dashboard/#/dashboard)
+
+`React` • `Dashboard` • `Charts.js`
+
 *Modern admin panel with analytics & management tools*
+
+**Features:** Data Visualization, User Management, Real-time Updates
 
 </td>
 </tr>
@@ -180,35 +267,35 @@ I'm a passionate **Full-Stack Developer** who loves building scalable web applic
 <tr>
 <td align="center" width="33%">
 
-**🎯 Igor Vainshtein**
-<br>
-[![Visit Site](https://img.shields.io/badge/💼_LIVE_SITE-4A90E2?style=for-the-badge&logoColor=white)](https://igorvainshtein.com/)
-<br>
-`WordPress` `Professional`
-<br>
-*Executive portfolio website*
+<img src="https://img.shields.io/badge/🎯_Igor_Vainshtein-4A90E2?style=for-the-badge&logoColor=white" alt="Igor"/>
+
+[![Visit](https://img.shields.io/badge/💼_VISIT-4A90E2?style=for-the-badge&logoColor=white)](https://igorvainshtein.com/)
+
+`WordPress` • `Professional`
+
+*Executive portfolio*
 
 </td>
 <td align="center" width="33%">
 
-**🏦 Priority Investment**
-<br>
-[![Visit Site](https://img.shields.io/badge/💰_LIVE_SITE-2E8B57?style=for-the-badge&logoColor=white)](https://priorityib.com.au/)
-<br>
-`WordPress` `Finance`
-<br>
-*Investment banking platform*
+<img src="https://img.shields.io/badge/🏦_Priority_Investment-2E8B57?style=for-the-badge&logoColor=white" alt="Priority"/>
+
+[![Visit](https://img.shields.io/badge/💰_VISIT-2E8B57?style=for-the-badge&logoColor=white)](https://priorityib.com.au/)
+
+`WordPress` • `Finance`
+
+*Investment platform*
 
 </td>
 <td align="center" width="33%">
 
-**🏛️ AIDN Australia**
-<br>
-[![Visit Site](https://img.shields.io/badge/🌏_LIVE_SITE-FF8C00?style=for-the-badge&logoColor=white)](https://aidn.org.au/)
-<br>
-`WordPress` `Non-profit`
-<br>
-*Professional association website*
+<img src="https://img.shields.io/badge/🏛️_AIDN_Australia-FF8C00?style=for-the-badge&logoColor=white" alt="AIDN"/>
+
+[![Visit](https://img.shields.io/badge/🌏_VISIT-FF8C00?style=for-the-badge&logoColor=white)](https://aidn.org.au/)
+
+`WordPress` • `Non-profit`
+
+*Association website*
 
 </td>
 </tr>
@@ -218,53 +305,127 @@ I'm a passionate **Full-Stack Developer** who loves building scalable web applic
 
 <div align="center">
 
+---
+
 **🎨 WordPress Development • 🛍️ Shopify Solutions • ⚡ React Applications • 🏢 Business Websites**
 
 *Delivering production-ready solutions across multiple platforms and industries*
+
+---
 
 </div>
 
 ## 🚀 Current Mission
 
-<img align="right" alt="Mission" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 **Current Focus**
 
 ```typescript
-const currentFocus = {
-  learning: ["Advanced TypeScript patterns", "Next.js 14", "GraphQL", "Microservices"],
-  building: ["E-commerce SaaS platform", "React component library", "REST APIs"],
-  exploring: ["Serverless architecture", "AI integration", "Docker containers"],
-  backend: ["Node.js optimization", "Database scaling", "Cloud deployment"],
+const currentMission = {
+  learning: [
+    "Advanced TypeScript patterns",
+    "Next.js 14 App Router",
+    "GraphQL & Apollo",
+    "Microservices Architecture"
+  ],
+  building: [
+    "🛒 E-commerce SaaS platform",
+    "📚 React component library",
+    "🔗 REST & GraphQL APIs",
+    "☁️ Cloud-native applications"
+  ],
+  exploring: [
+    "Serverless architecture",
+    "AI/ML integration",
+    "Docker & Kubernetes",
+    "Web3 technologies"
+  ],
   goal: "Building full-stack solutions that scale! 🚀"
 };
 ```
 
-<br clear="right"/>
+</td>
+<td width="50%" align="center">
+
+<img alt="Mission GIF" width="100%" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+
+### 🎪 **Fun Development Stats**
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdulahad-2&theme=radical" alt="Productive Time" />
+
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🏆 Achievements & Trophies
+
+<div align="center">
+  
+<img src="https://github-profile-trophy.vercel.app/?username=abdulahad-2&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="Trophies" />
+
+</div>
 
 ## 🤝 Let's Connect & Build Something Amazing!
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 📧 **Email**
 <a href="mailto:abdul.ahadt732@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+*Let's discuss your project*
+
+</td>
+<td align="center" width="25%">
+
+### 🌐 **Portfolio**
 <a href="https://ahad-dev.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
+*Check out my work*
+
+</td>
+<td align="center" width="25%">
+
+### 💼 **LinkedIn**
 <a href="https://www.linkedin.com/in/abdul-ahad-7908a82b4" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+*Let's connect professionally*
+
+</td>
+<td align="center" width="25%">
+
+### 💬 **Chat**
+<a href="https://github.com/abdulahad-2" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+*Follow my journey*
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <div align="center">
   
-### 💭 Developer Wisdom
+### 💭 **Developer Wisdom**
 
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-*"First, solve the problem. Then, write the code."* – John Johnson
+> *"Code is like humor. When you have to explain it, it's bad."* – **Cory House**
+> 
+> *"First, solve the problem. Then, write the code."* – **John Johnson**
+>
+> *"The best error message is the one that never shows up."* – **Thomas Fuchs**
 
 </div>
 
@@ -272,9 +433,8 @@ const currentFocus = {
 
 <div align="center">
 
-```
+```ascii
      ╭─────────────────────────────────────────────────────────────╮
-     │                                                             │
      │  ████████╗██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗███████╗       │
      │  ╚══██╔══╝██║  ██║██╔══██╗████╗  ██║██║ ██╔╝██╔════╝       │
      │     ██║   ███████║███████║██╔██╗ ██║█████╔╝ ███████╗       │
@@ -282,19 +442,38 @@ const currentFocus = {
      │     ██║   ██║  ██║██║  ██║██║ ╚████║██║  ██╗███████║       │
      │     ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝       │
      │                                                             │
-     │           For visiting my profile! Star ⭐ if you like      │
-     │                    what you see! 🚀                        │
+     │       🌟 Thanks for visiting my profile! 🌟                 │
+     │         Star ⭐ my repos if you like them!                  │
+     │              Let's build something amazing! 🚀             │
      ╰─────────────────────────────────────────────────────────────╯
 ```
 
+### 📈 **Visitor Count**
+<img src="https://profile-counter.glitch.me/abdulahad-2/count.svg" alt="Visitor Count" />
+
 </div>
 
+<div align="center">
 
+### 🎵 **Currently Coding To**
+[![Spotify](https://spotify-github-profile.vercel.app/api/spotify)](https://open.spotify.com/user/your-username)
+
+### 🐍 **Contribution Snake**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abdulahad-2/abdulahad-2/raw/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://github.com/abdulahad-2/abdulahad-2/raw/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Happy%20Coding!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72"/>
 
 ---
 
 <div align="center">
-  <b>💻 Let's code the future together! 🚀</b>
+  
+**💻 Let's code the future together! 🚀**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Star+⭐+my+repositories;Let's+connect+and+collaborate!" alt="Footer Typing SVG" />
+
 </div>
