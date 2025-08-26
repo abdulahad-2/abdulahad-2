@@ -101,9 +101,9 @@ I'm a passionate **Full-Stack Developer** who loves building scalable web applic
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulahad-2&repo=your-best-repo&theme=radical&hide_border=true)](https://github.com/abdulahad-2/your-best-repo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulahad-2&repo=another-great-repo&theme=radical&hide_border=true)](https://github.com/abdulahad-2/another-great-repo)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulahad-2&repo=your-best-repo&theme=radical&hide_border=true)]([https://github.com/abdulahad-2/your-best-repo](https://github.com/abdulahad-2/Sage-video-downloader))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulahad-2&repo=another-great-repo&theme=radical&hide_border=true)]([https://github.com/abdulahad-2/another-great-repo](https://github.com/abdulahad-2/AI-resume-analyzer-generator))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulahad-2&repo=another-great-repo&theme=radical&hide_border=true)](https://github.com/abdulahad-2/portfolio2)
 </div>
 
 ## 🚀 Current Mission
