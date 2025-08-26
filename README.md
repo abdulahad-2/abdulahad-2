@@ -99,13 +99,129 @@ I'm a passionate **Full-Stack Developer** who loves building scalable web applic
 
 ## 🌟 Featured Masterpieces
 
+## 🌟 Featured GitHub Projects
+
 <div align="center">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulahad-2&repo=Sage-video-downloader&theme=radical&hide_border=true)](https://github.com/abdulahad-2/Sage-video-downloader)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulahad-2&repo=AI-resume-analyzer-generator&theme=radical&hide_border=true)](https://github.com/abdulahad-2/AI-resume-analyzer-generator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulahad-2&repo=portfolio2&theme=radical&hide_border=true)](https://github.com/abdulahad-2/portfolio2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulahad-2&repo=portfolio2&theme=radical&hide_border=true)](https://github.com/abdulahad-2/portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulahad-2&repo=portfolio2&theme=radical&hide_border=true)](https://abdulahad-2.github.io/admin-dashboard/#/dashboard)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulahad-2&repo=portfolio&theme=radical&hide_border=true)](https://github.com/abdulahad-2/portfolio)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🚀 Live Production Projects
+
+<div align="center">
+
+### 🎨 **WordPress & E-commerce Mastery**
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**🛒 ThemeHFil Marketplace**
+<br>
+[![Visit Site](https://img.shields.io/badge/🌟_LIVE_SITE-00D9FF?style=for-the-badge&logoColor=white)](https://themehfil.ca/)
+<br>
+`WordPress` `WooCommerce` `Custom Theme`
+<br>
+*Digital marketplace with advanced e-commerce functionality*
+
+</td>
+<td align="center" width="50%">
+
+**🥘 Khan Jee Restaurant**
+<br>
+[![Visit Site](https://img.shields.io/badge/🍽️_LIVE_SITE-FF6B35?style=for-the-badge&logoColor=white)](https://khanjeecanada.com/)
+<br>
+`WordPress` `Custom Design` `Restaurant`
+<br>
+*Professional restaurant website with online ordering*
+
+</td>
+</tr>
+</table>
+
+### 🛍️ **Shopify & Modern Web Solutions**
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**🛒 Custom Shopify Store**
+<br>
+[![Visit Site](https://img.shields.io/badge/🛍️_LIVE_STORE-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)](https://by39tk-uv.myshopify.com/)
+<br>
+`Shopify` `Custom Theme` `E-commerce`
+<br>
+*Feature-rich e-commerce store with custom functionality*
+
+</td>
+<td align="center" width="50%">
+
+**⚡ React Admin Dashboard**
+<br>
+[![Visit Site](https://img.shields.io/badge/📊_LIVE_DEMO-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://abdulahad-2.github.io/admin-dashboard/#/dashboard)
+<br>
+`React` `Dashboard` `Data Visualization`
+<br>
+*Modern admin panel with analytics & management tools*
+
+</td>
+</tr>
+</table>
+
+### 🏢 **Professional Business Websites**
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**🎯 Igor Vainshtein**
+<br>
+[![Visit Site](https://img.shields.io/badge/💼_LIVE_SITE-4A90E2?style=for-the-badge&logoColor=white)](https://igorvainshtein.com/)
+<br>
+`WordPress` `Professional`
+<br>
+*Executive portfolio website*
+
+</td>
+<td align="center" width="33%">
+
+**🏦 Priority Investment**
+<br>
+[![Visit Site](https://img.shields.io/badge/💰_LIVE_SITE-2E8B57?style=for-the-badge&logoColor=white)](https://priorityib.com.au/)
+<br>
+`WordPress` `Finance`
+<br>
+*Investment banking platform*
+
+</td>
+<td align="center" width="33%">
+
+**🏛️ AIDN Australia**
+<br>
+[![Visit Site](https://img.shields.io/badge/🌏_LIVE_SITE-FF8C00?style=for-the-badge&logoColor=white)](https://aidn.org.au/)
+<br>
+`WordPress` `Non-profit`
+<br>
+*Professional association website*
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+**🎨 WordPress Development • 🛍️ Shopify Solutions • ⚡ React Applications • 🏢 Business Websites**
+
+*Delivering production-ready solutions across multiple platforms and industries*
+
 </div>
 
 ## 🚀 Current Mission
