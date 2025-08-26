@@ -93,7 +93,10 @@ graph LR
   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abdulahad-2&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true">
 </picture>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulahad-2&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&hide=python,shell&bg_color=0D1117&title_color=00FF94&text_color=ffffff" alt="Top Languages" width="49%" height="195px"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdulahad-2&layout=compact&theme=radical&hide_border=true&langs_count=6&exclude_repo=repo-name-with-python,another-repo">
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdulahad-2&layout=compact&theme=default&hide_border=true&langs_count=6&exclude_repo=repo-name-with-python,another-repo">
+</picture>
 
 </div>
 
