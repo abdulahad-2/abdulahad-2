@@ -71,7 +71,7 @@ I'm a passionate **Full-Stack Developer** who loves building scalable web applic
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abdulahad-2&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 </td>
 <td align="center">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdulahad-2&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdulahad-2&layout=compact&theme=radical&hide_border=true&langs_count=8&count_weight=commits" alt="Top Languages by Commits"/>
 </td>
 </tr>
 </table>
