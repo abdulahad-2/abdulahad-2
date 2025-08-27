@@ -76,9 +76,7 @@ I'm a passionate **Full-Stack Developer** who loves building scalable web applic
 </tr>
 </table>
 
-### Activity Streak
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulahad-2&theme=radical&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 
 ### Contribution Graph
 
