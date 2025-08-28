@@ -5,6 +5,11 @@
 </div>
 
 ---
+## 🚀 About Me
+
+> **🌟 Crafting Digital Experiences | Turning Ideas into Reality**
+
+I'm a passionate **Full-Stack Developer** who loves building scalable web applications and cutting-edge e-commerce solutions. With a keen eye for detail and a drive for perfection, I transform complex problems into elegant, user-friendly solutions.
 
 
 - 🔭 Currently working on **full-stack e-commerce platforms & APIs**
